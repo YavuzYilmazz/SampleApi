@@ -31,3 +31,4 @@ C:\Users\Lenovo\Desktop\patika\RestApi\obj\Debug\net8.0\refint\RestApi.dll
 C:\Users\Lenovo\Desktop\patika\RestApi\obj\Debug\net8.0\RestApi.pdb
 C:\Users\Lenovo\Desktop\patika\RestApi\obj\Debug\net8.0\RestApi.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\patika\RestApi\obj\Debug\net8.0\ref\RestApi.dll
+C:\Users\Lenovo\Desktop\patika\RestApi\obj\Debug\net8.0\RestApi.sourcelink.json
